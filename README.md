@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LRalli
-- 🌱 I’m currently learning Computer Engineering at Sapienza Università di Roma, Rome
+- 🌱 I’m currently learning Computer Engineering & Cybersecurity at Sapienza Università di Roma, Rome
 - 📫 How to reach me: lorenzoralli999@gmail.com
 
 <!---
